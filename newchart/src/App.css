@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  width: 40%;
+}
+
+.chartTitle{
+  font-size: large;
+  font-weight: 700;
+  margin-top: 10px;
+}
